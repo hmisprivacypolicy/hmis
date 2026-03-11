@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HMIS Mobile App Privacy Policy</title>
+
+<style>
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    margin: 40px;
+    color:#333;
+}
+h1,h2{
+    color:#2c3e50;
+}
+.container{
+    max-width:900px;
+    margin:auto;
+}
+.section{
+    margin-bottom:30px;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Privacy Policy – HMIS Mobile App (BGH Bokaro)</h1>
+<p><strong>Last Updated:</strong> March 2026</p>
+
+<p>
+The Centre for Development of Advanced Computing (C-DAC), Noida, is committed to protecting the privacy and security of users of the HMIS Mobile App implemented for Bokaro General Hospital (BGH) and associated health facilities under SAIL-Bokaro.
+</p>
+
+<p>
+This Privacy Policy explains how user information is accessed, used, stored, and protected when using the HMIS Mobile App. This policy applies only to the HMIS Mobile App developed by C-DAC for Bokaro General Hospital and does not apply to other websites, services, or applications operated by SAIL or other organizations.
+</p>
+
+
+<div class="section">
+<h2>1. Information We Access or Collect</h2>
+
+<p>The HMIS Mobile App may access or process the following types of information in order to provide hospital services:</p>
+
+<h3>Personal Information</h3>
+<ul>
+<li>Patient CR Number or Hospital Identification Number</li>
+<li>Appointment and visit details</li>
+<li>Prescription information</li>
+<li>Hospital service records related to the patient</li>
+</ul>
+
+<h3>Health Data</h3>
+<p>The application processes health-related information including:</p>
+
+<ul>
+<li>Consultation records</li>
+<li>Medical prescriptions</li>
+<li>Investigation or treatment details</li>
+<li>Teleconsultation session information between doctor and patient</li>
+</ul>
+
+<p>This data is used strictly for providing hospital services through the HMIS system.</p>
+
+<h3>Device Permissions</h3>
+
+<p>The application may request the following permissions:</p>
+
+<ul>
+<li><strong>Camera:</strong> Used for video consultation between patients and doctors during teleconsultation workflows.</li>
+<li><strong>Microphone:</strong> Used to enable communication between patients and doctors during teleconsultation.</li>
+<li><strong>Storage/File Access:</strong> Used to download, store, and view prescriptions or other medical documents.</li>
+</ul>
+
+<p>These permissions can be revoked at any time from the mobile device settings.</p>
+
+</div>
+
+
+<div class="section">
+
+<h2>2. How We Use Your Information</h2>
+
+<p>The information accessed by the application is used solely for the following purposes:</p>
+
+<ul>
+<li>Managing hospital appointments</li>
+<li>Enabling teleconsultation between doctors and patients</li>
+<li>Accessing and viewing prescriptions and medical documents</li>
+<li>Providing digital hospital services through the HMIS platform</li>
+</ul>
+
+<p>
+The HMIS Mobile App does not sell, rent, or share user data with third parties for advertising or marketing purposes.
+</p>
+
+</div>
+
+
+<div class="section">
+
+<h2>3. Data Storage and Retention</h2>
+
+<p>
+User data processed through the HMIS Mobile App is stored securely within the Hospital Management Information System (HMIS) servers managed by authorized hospital infrastructure.
+</p>
+
+<p>
+Health and medical records may be retained according to hospital record retention policies and applicable healthcare regulations.
+</p>
+
+<p>
+The mobile application itself does not permanently store sensitive personal or health information except temporary files such as downloaded prescriptions required for viewing.
+</p>
+
+</div>
+
+
+<div class="section">
+
+<h2>4. Data Security</h2>
+
+<p>
+C-DAC implements appropriate technical and organizational security measures to protect user information from unauthorized access, disclosure, alteration, or destruction.
+</p>
+
+<p>
+Communication between the mobile application and HMIS servers is secured using encrypted communication protocols.
+</p>
+
+</div>
+
+
+<div class="section">
+
+<h2>5. Data Deletion and User Rights</h2>
+
+<p>
+Users who wish to request correction or deletion of their personal data may contact the hospital administration or the HMIS support team.
+</p>
+
+<p>
+Requests will be processed in accordance with hospital policies and applicable healthcare regulations.
+</p>
+
+<p>
+Users may also delete locally stored documents such as downloaded prescriptions directly from their mobile device.
+</p>
+
+</div>
+
+
+<div class="section">
+
+<h2>6. Changes to This Privacy Policy</h2>
+
+<p>
+C-DAC may update this privacy policy from time to time to reflect changes in services, policies, or legal requirements.
+</p>
+
+<p>
+When updates are made, the “Last Updated” date at the top of this page will be revised.
+</p>
+
+</div>
+
+
+<div class="section">
+
+<h2>7. Contact Information</h2>
+
+<p>If you have any questions regarding this Privacy Policy, please contact:</p>
+
+<p>
+<strong>Mobile App Development Team</strong><br>
+Centre for Development of Advanced Computing (C-DAC)<br>
+C-56/1, Anusandhan Bhawan<br>
+Sector 62, Noida – 201309<br>
+Uttar Pradesh, India<br>
+Email: mappsdev-noida@cdac.in
+</p>
+
+</div>
+
+</div>
+
+</body>
+</html>
