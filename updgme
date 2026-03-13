@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy</title>
+
+<style>
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+    background:#f5f5f5;
+    color:#333;
+}
+
+.container{
+    width:90%;
+    max-width:1000px;
+    margin:40px auto;
+    background:#fff;
+    padding:30px;
+    box-shadow:0 2px 10px rgba(0,0,0,0.1);
+}
+
+.header{
+    background:#2f3c8f;
+    color:#fff;
+    text-align:center;
+    padding:25px;
+    font-size:32px;
+    font-weight:bold;
+    border-radius:4px;
+}
+
+.section-title{
+    margin-top:25px;
+    font-weight:bold;
+    font-size:18px;
+}
+
+ul{
+    margin-top:10px;
+}
+
+li{
+    margin-bottom:12px;
+    line-height:1.6;
+}
+
+.footer{
+    margin-top:25px;
+    font-weight:bold;
+}
+
+.address{
+    font-style:italic;
+    margin-top:5px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="header">Privacy Policy</div>
+
+<ul>
+<li>
+The Centre for Development of Advanced Computing (CDAC) is committed to protecting your privacy, while delivering the software that brings you the features provided in the e-Sushrut UP HMIS (DGME) Mobile App. This privacy statement governs your use of the e-Sushrut UP HMIS (DGME) Mobile App.
+</li>
+
+<li>
+This app provides features for patients and doctors of UPDGME Hospitals which use the Hospital Management Information System (HMIS) of the Centre for Development of Advanced Computing (CDAC), Noida.
+</li>
+</ul>
+
+<div class="section-title">COLLECTION AND USE OF YOUR INFORMATION</div>
+
+<ul>
+<li>
+The e-Sushrut UP HMIS (DGME) Mobile App does not collect or transmit to CDAC personally identifiable information or require the use of logins, passwords, etc. generated in the mobile app. The app uses the camera and record audio permissions to enable video calling between patients and doctors during teleconsultation workflows. The option to revoke these permissions can be set from the app settings options on the mobile device.
+</li>
+</ul>
+
+<div class="section-title">SECURITY OF YOUR INFORMATION</div>
+
+<ul>
+<li>
+CDAC respects and protects the privacy of the individuals who use HMIS Mobile App services and is committed to helping protect the security of your information. The information captured by the app is not shared with any third party.
+</li>
+</ul>
+
+<div class="section-title">CHANGES TO THIS PRIVACY STATEMENT</div>
+
+<ul>
+<li>
+We will occasionally update this privacy statement to reflect changes in our products services and customer feedback. When we post changes, we will revise the "last updated" date at the top of this statement. We encourage you to periodically review this statement to be informed of how CDAC is protecting your information. If you have questions statement or believe that we have not adhered to it, please contact us at
+</li>
+
+<li>
+mappsdev-noida@cdac.in
+</li>
+</ul>
+
+<div class="footer">
+Center for Development of Advanced Computing (CDAC)
+</div>
+
+<div class="address">
+C-56/1, Anusandhan Bhawan, Sector 62, Noida, Uttar Pradesh, -201309 India
+</div>
+
+</div>
+
+</body>
+</html>
